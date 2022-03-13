@@ -9,10 +9,10 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 1. [Introduction And Tidy Code](#01-introduction-and-tidy-code)
 2. [Loops And Debugging](#02-loops-and-debugging)
 3. [Coercion And Truthiness](#03-coercion-and-truthiness)
-<!--4. [Caesar Cypher](#04-caesar-cypher)
+4. [Caesar Cypher](#04-caesar-cypher)
 5. [Scope](#05-scope)
 6. [Arrays I](#06-arrays-I)
-7. [Arrays II](#07-arrays-ii)
+<!--7. [Arrays II](#07-arrays-ii)
 8. [Sudoku Validator](#08-sudoku-validator)
 9. [Objects](#09-objects)
 10. [Object Methods](#10-object-methods)
@@ -73,11 +73,11 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Lecture Slides](Lecture-Slides/03-Coercion-and-Truthiness.pptx)
 
-**[Live Lecture + Review](https://youtu.be/E9cwiDBAP9M)**
+**[Live Lecture + Review](https://youtu.be/j482HCea6QU)**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed59/text)
 
-<!--[Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5f24c8acfc4e3d00048aed53/content/5f24c8acfc4e3d00048aed5b/text)
 
 
 ## **04 Caesar Cypher**
@@ -98,7 +98,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **05 Scope**
 
-**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
+<!--**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
 
 **[Lecture Slides](Lecture-Slides/05-Scope.pptx)**
 
