@@ -88,11 +88,11 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+<!--[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
 **[Solution - Caesar Cypher](https://youtu.be/AN2fwt0n454)**
 
-**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**
+**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**-->
 
 
 
