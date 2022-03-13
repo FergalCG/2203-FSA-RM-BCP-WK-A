@@ -98,7 +98,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **05 Scope**
 
-<!--**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
+**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
 
 **[Lecture Slides](Lecture-Slides/05-Scope.pptx)**
 
@@ -115,7 +115,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18b/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
+<!--[Solutions](https://learn.fullstackacademy.com/workshop/5ac57806bd9f9e0004adb186/content/5ac57806bd9f9e0004adb18c/text)
 
 
 ## **07 Arrays II**
